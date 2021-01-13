@@ -36,7 +36,7 @@
     "7zip-bin-linux"
   ],
   "dependencies": {
-    "angular": "1.6.3",
+    "angular": "1.8.0",
     "angular-if-state": "1.0.0",
     "angular-middle-ellipses": "1.0.0",
     "angular-moment": "1.0.1",
