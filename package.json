@@ -78,7 +78,7 @@
     "esbuild-loader": "2.16.0",
     "etcher-sdk": "6.3.0",
     "file-loader": "6.2.0",
-    "husky": "4.2.5",
+    "husky": "4.3.8",
     "immutable": "3.8.1",
     "lint-staged": "10.2.2",
     "lodash": "4.17.10",
